@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "Learning programming is easy and fun.",
+    "answer": [
+      { "text": "True", "isCorrect": false },
+      { "text": "False", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Your interest in Programming increased when you heard about the availability of remote jobs.",
+    "answer": [
+      { "text": "True", "isCorrect": true },
+      { "text": "False", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Programming is fun but can sometimes become frustrating. ",
+    "answer": [
+      { "text": "True", "isCorrect": true },
+      { "text": "False", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "You were fascinated by the idea and believed that learning programming can make you a hacker.",
+    "answer": [
+      { "text": "True", "isCorrect": true },
+      { "text": "False", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Programming never gets tiring for you. You are always behind your PC and pushing codes to GitHub.",
+    "answer": [
+      { "text": "True", "isCorrect": false },
+      { "text": "False", "isCorrect": true }
+    ]
+  }
+]
